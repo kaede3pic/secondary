@@ -1,3 +1,5 @@
+ページを直で開くとブラウザが大変なことになっちゃうので、直リンクココの下（↓）に付けました。
+
 # Assault Lily MECHANICS
 アサルトリリィの２次創作小説です。
 
@@ -8,3 +10,12 @@
 集められるだけ資料集めて、力学とか情報とかそっち系の分野に落とし込んであれこれ語っています。
 
 オリキャラの解説とかは、CharacterProfileにて。
+
+アップしたのも、読み返しては地味にちょくちょく直したりしてます。
+
+### プロローグ
+#### Prologue 01 「遭遇」(00_prologue_01.pdf)
+https://github.com/kaede3pic/secondary/raw/master/AssualtLilyMECHANICS/00_prologue_01.pdf
+
+#### Prologue 02
+絶賛執筆中。
