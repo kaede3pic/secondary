@@ -21,6 +21,9 @@
 その勢いで等速円運動に入って、
 着弾のタイミング、身体を守るマギのシールド頼みの体当たりでつっきるという方法で「止まらない」を実現しています。
 
+<image width="400px" src="https://raw.githubusercontent.com/kaede3pic/secondary/master/AssualtLilyMECHANICS/image_jpg/battle_style_00_01_01.jpg">
+
+
 その結果、二水ちゃんの前に現れた瞬間には建物の壁を突き破ってかつ、
 そのままの円運動でヒュージを一閃したというわけです。
 
