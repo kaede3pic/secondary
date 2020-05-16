@@ -15,9 +15,13 @@
 
 ### プロローグ
 #### Prologue 01 「遭遇」(00_prologue_01.pdf)
+PDF直ダウンロードリンクです。
+
 https://github.com/kaede3pic/secondary/raw/master/AssualtLilyMECHANICS/00_prologue_01.pdf
 
 #### コラム 01
+ページリンクです。
+
 https://github.com/kaede3pic/secondary/blob/master/AssualtLilyMECHANICS/00_prologue_01_COLUMN.md
 
 #### Prologue 02
