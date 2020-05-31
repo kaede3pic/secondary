@@ -36,7 +36,7 @@
 
 （「リズムゲームのノーツ速度最速で必ず初見フルコンできるように訓練されている」ようなイメージ？　by 千代御代（先生））
 
-【スモール級から二水ちゃんを守る千代御代】
+### 【スモール級から二水ちゃんを守る千代御代】
 
 <image width="400px" src="https://raw.githubusercontent.com/kaede3pic/secondary/master/AssualtLilyMECHANICS/image_jpg/sasie_00_01_04.jpg">
 
@@ -105,3 +105,14 @@ ARMSの１章で、ミリアムがCHARMを分解してて部屋をふっ飛ば�
 使っちゃったのでプロローグ１にして、御代ちゃんは自分のCHARM（戦車１台分のお値段）を失ったことになります。
 
 
+## CHARMの交互起動
+
+作中で御代ちゃん、「手数が欲しい」とCHARMを２機を交互に起動させる『円環の御手』もどきをしていますが、原理は作中にある通り。
+
+説明中に出てくるトランジスタ回路の例えを図で書くとこんな感じです。
+
+<image width="400px" src="https://raw.githubusercontent.com/kaede3pic/secondary/master/AssualtLilyMECHANICS/image_jpg/kairo_00_01_02.jpg">
+  
+<image width="400px" src="https://raw.githubusercontent.com/kaede3pic/secondary/master/AssualtLilyMECHANICS/image_jpg/douji_kidou_00_01_03.jpg">
+  
+上の方の図に出てくる『マギ時空』とか「物理世界でエネルギーに変わる」といった話は『千代御代（先生）』の持論であり、『空論』で、そのあたりの実例はプロローグ02で。
