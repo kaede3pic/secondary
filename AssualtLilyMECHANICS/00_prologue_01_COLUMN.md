@@ -74,7 +74,7 @@
 
 <image width="400px" src="https://raw.githubusercontent.com/kaede3pic/secondary/master/AssualtLilyMECHANICS/image_jpg/sasie_00_01_06.jpg">
   
-少々困り顔ですね。
+でもやはり、少々困り顔ですね。
 
 <image width="400px" src="https://raw.githubusercontent.com/kaede3pic/secondary/master/AssualtLilyMECHANICS/image_jpg/sasie_00_01_07.jpg">
 
