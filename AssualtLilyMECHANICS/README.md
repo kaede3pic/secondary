@@ -19,7 +19,7 @@ PDF直ダウンロードリンクです。
 
 https://github.com/kaede3pic/secondary/raw/master/AssualtLilyMECHANICS/00_prologue_01.pdf
 
-#### コラム 00_01
+##### コラム 00_01
 ページリンクです。
 
 https://github.com/kaede3pic/secondary/blob/master/AssualtLilyMECHANICS/00_prologue_01_COLUMN.md
