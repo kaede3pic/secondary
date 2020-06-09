@@ -21,7 +21,7 @@
 その勢いで等速円運動に入って、
 着弾のタイミング、身体を守るマギのシールド頼みの体当たりでつっきるという方法で「止まらない」を実現しています。
 
-<image width="400px" src="https://raw.githubusercontent.com/kaede3pic/secondary/master/AssualtLilyMECHANICS/image_jpg/battle_style_00_01_01.jpg">
+<image width="400px" src="https://raw.githubusercontent.com/kaede3pic/secondary/master/AssualtLilyMECHANICS/image_jpg/00_01/battle_style_00_01_01.jpg">
 
 
 その結果、二水ちゃんの前に現れた瞬間には建物の壁を突き破ってかつ、
@@ -38,7 +38,7 @@
 
 ### 【スモール級から二水ちゃんを守る千代御代】
 
-<image width="400px" src="https://raw.githubusercontent.com/kaede3pic/secondary/master/AssualtLilyMECHANICS/image_jpg/sasie_00_01_04.jpg">
+<image width="400px" src="https://raw.githubusercontent.com/kaede3pic/secondary/master/AssualtLilyMECHANICS/image_jpg/00_01/sasie_00_01_04.jpg">
 
 二川二水 役：　一之宮・ミカエラ・日葵 様
 
@@ -72,11 +72,11 @@
 
 こうして上のような挿絵が完成しました。
 
-<image width="400px" src="https://raw.githubusercontent.com/kaede3pic/secondary/master/AssualtLilyMECHANICS/image_jpg/sasie_00_01_06.jpg">
+<image width="400px" src="https://raw.githubusercontent.com/kaede3pic/secondary/master/AssualtLilyMECHANICS/image_jpg/00_01/sasie_00_01_06.jpg">
   
 でもやはり、少々困り顔ですね。
 
-<image width="400px" src="https://raw.githubusercontent.com/kaede3pic/secondary/master/AssualtLilyMECHANICS/image_jpg/sasie_00_01_07.jpg">
+<image width="400px" src="https://raw.githubusercontent.com/kaede3pic/secondary/master/AssualtLilyMECHANICS/image_jpg/00_01/sasie_00_01_07.jpg">
 
 スモール級 役：　ソルジャーレギオン（友情出演）
 
@@ -111,8 +111,8 @@ ARMSの１章で、ミリアムがCHARMを分解してて部屋をふっ飛ば�
 
 説明中に出てくるトランジスタ回路の例えを図で書くとこんな感じです。
 
-<image width="400px" src="https://raw.githubusercontent.com/kaede3pic/secondary/master/AssualtLilyMECHANICS/image_jpg/kairo_00_01_02.jpg">
+<image width="400px" src="https://raw.githubusercontent.com/kaede3pic/secondary/master/AssualtLilyMECHANICS/image_jpg/00_01/kairo_00_01_02.jpg">
   
-<image width="400px" src="https://raw.githubusercontent.com/kaede3pic/secondary/master/AssualtLilyMECHANICS/image_jpg/douji_kidou_00_01_03.jpg">
+<image width="400px" src="https://raw.githubusercontent.com/kaede3pic/secondary/master/AssualtLilyMECHANICS/image_jpg/00_01/douji_kidou_00_01_03.jpg">
   
 上の方の図に出てくる『マギ時空』とか「物理世界でエネルギーに変わる」といった話は『千代御代（先生）』の持論であり、『空論』で、そのあたりの実例はプロローグ02で。
