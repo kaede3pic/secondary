@@ -1,4 +1,4 @@
-# Prologue 01 「遭遇 -faked circlet-」のコラム
+# Prologue 02 「理由 -Miyo Futagawa-」のコラム
 
 今回はここに書かないといけないことが、多すぎなんですよね......
 
