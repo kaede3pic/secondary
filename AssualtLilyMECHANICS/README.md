@@ -15,21 +15,24 @@
 
 ### プロローグ
 #### Prologue 01 「遭遇 -faked circlet-」(00_prologue_01.pdf)
-PDF直ダウンロードリンクです。
+PDF直ダウンロードリンク（↓）です。
 
 https://github.com/kaede3pic/secondary/raw/master/AssualtLilyMECHANICS/00_prologue_01.pdf
 
 ##### コラム 00_01
-ページリンクです。
+ページリンク（↓）です。
 
 https://github.com/kaede3pic/secondary/blob/master/AssualtLilyMECHANICS/00_prologue_01_COLUMN.md
 
 #### Prologue 02 「理由 -Miyo Futagawa-」(00_prologue_02.pdf)
-PDF直ダウンロードリンクです。
+PDF直ダウンロードリンク（↓）です。
 
 https://github.com/kaede3pic/secondary/raw/master/AssualtLilyMECHANICS/00_prologue_02.pdf
 
 ##### コラム 00_02
-ページリンクです。
+ページリンク（↓）です。
 
 https://github.com/kaede3pic/secondary/blob/master/AssualtLilyMECHANICS/00_prologue_02_COLUMN.md
+
+#### Prologue 03 「野生（仮）」
+絶賛執筆中
