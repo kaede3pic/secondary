@@ -10,6 +10,7 @@ MECHANICSのオリキャラが出たりもしますが、公式キャラのSSも
 
 言いつつ、最初のアップがまさかこうなるとは自分でも思ってませんでした　(^^;
 
+・<a href="https://github.com/kaede3pic/secondary/tree/master/AssaultLiliySS#queen-vs-witch">Queen vs Witch</a>
 
 ## Queen vs Witch
 
