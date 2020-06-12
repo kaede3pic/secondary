@@ -10,7 +10,9 @@ MECHANICSのオリキャラが出たりもしますが、公式キャラのSSも
 
 言いつつ、最初のアップがまさかこうなるとは自分でも思ってませんでした　(^^;
 
-・<a href="https://github.com/kaede3pic/secondary/tree/master/AssaultLiliySS#queen-vs-witch">Queen vs Witch</a>
+・ <a href="https://github.com/kaede3pic/secondary/tree/master/AssaultLiliySS#queen-vs-witch">Queen vs Witch</a>
+
+・ 速水桂さんSS
 
 ## Queen vs Witch
 
@@ -83,3 +85,8 @@ https://twitter.com/kaede3fig/status/1271337390351634432
 私も結構久しぶりっていうのもあったんだけどね......
 
 （以下略）
+
+## 速水桂さんSS
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">この数日で一気に速水桂さんが好きになりすぎて、思わず眠れず、桂さんへの溢れん想いを込めて、桂さんの中学時代の級友目線で2次創作SSを書きました。書きながら、自分で息できないくらい胸がしめつけられました。<a href="https://twitter.com/hashtag/%E3%82%A2%E3%82%B5%E3%83%AB%E3%83%88%E3%83%AA%E3%83%AA%E3%82%A3?src=hash&amp;ref_src=twsrc%5Etfw">#アサルトリリィ</a> <a href="https://twitter.com/hashtag/%E5%BE%A1%E5%8F%B0%E5%A0%B4%E5%A5%B3%E5%AD%A6%E6%A0%A1?src=hash&amp;ref_src=twsrc%5Etfw">#御台場女学校</a> <a href="https://twitter.com/hashtag/%E9%80%9F%E6%B0%B4%E6%A1%82?src=hash&amp;ref_src=twsrc%5Etfw">#速水桂</a> <a href="https://t.co/5rbH1sfjM3">pic.twitter.com/5rbH1sfjM3</a></p>&mdash; 蜜瀬かえで (@kaede3fig) <a href="https://twitter.com/kaede3fig/status/1268981013536890880?ref_src=twsrc%5Etfw">June 5, 2020</a></blockquote>
+
