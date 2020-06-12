@@ -4,7 +4,7 @@
 
 ・　<a href="https://github.com/kaede3pic/secondary/blob/master/AssualtLilyMECHANICS/CharacterProfile.md#%E4%BA%8C%E5%B7%9D-%E4%B8%89%E5%A4%9C%E3%81%B5%E3%81%9F%E3%81%8C%E3%82%8F-%E3%81%BF%E3%82%88">二川三夜</a>
 
-・　佐々渡　広暮
+・　<a href="https://github.com/kaede3pic/secondary/blob/master/AssualtLilyMECHANICS/CharacterProfile.md#%E4%BD%90%E3%80%85%E6%B8%A1-%E5%BA%83%E6%9A%AE%E3%81%95%E3%81%96%E3%82%8F%E3%81%9F%E3%82%8A%E3%81%B2%E3%81%90%E3%82%8C">佐々渡　広暮</a>
 
 ## 千代 御代（せんだい みよ）
 
