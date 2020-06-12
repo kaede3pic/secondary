@@ -24,9 +24,9 @@ https://twitter.com/kaede3fig/status/1271337390351634432
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ブンケイ様、<br>突然で失礼いたします。<br>実は当方の <a href="https://twitter.com/hashtag/%E3%82%A2%E3%82%B5%E3%83%AB%E3%83%88%E3%83%AA%E3%83%AA%E3%82%A3?src=hash&amp;ref_src=twsrc%5Etfw">#アサルトリリィ</a> 2次創作小説オリキャラの魔女さんが、こちらの女王様のレアスキルに真向から勝てる『空論』を思いついた！とはしゃいでおり、うずうずしてらっしゃるのですが、そちらの世界に一瞬お邪魔させてあげてもよろしいでしょうか？<br>&lt; _ _ &gt;</p>&mdash; 蜜瀬かえで (@kaede3fig) <a href="https://twitter.com/kaede3fig/status/1271337390351634432?ref_src=twsrc%5Etfw">June 12, 2020</a></blockquote>
 
 
-「お邪魔させていただくんですから、礼儀はちゃんとしてきてくださいねー？」
+私「お邪魔させていただくんですから、礼儀はちゃんとしてきてくださいねー？」
 
-「はーい」
+先生「はーい」
 
 ということだったので、「サマ」でなく、ちゃんと敬いの気持ちだけで「女王"様"」とお呼びし、ノリノリでへりくだっております。
 
