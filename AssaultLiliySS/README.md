@@ -9,7 +9,7 @@ PDF直ダウンロードリンク（↓）です。
 
 https://github.com/kaede3pic/secondary/raw/master/AssaultLiliySS/Queen_vs_Witch.pdf
 
-ブンケイさん（@bunkeiP_bushi）のお側におられる<a href="https://note.com/bunkeipp/n/na81f5dd08ab8">女王様</a>より御快諾を得て、当方の2次創作小説「Assualt Lily MECHANICS」より、『空論の魔女』こと『千代御代』先生が、はしゃいでお邪魔させていただきました。
+ブンケイさん（@bunkeiP_bushi）のお側におられる<a href="https://note.com/bunkeipp/n/na81f5dd08ab8">女王様</a>のお許しを得て、当方の2次創作小説「Assualt Lily MECHANICS」より、『空論の魔女』こと『千代御代』先生が、はしゃいでお邪魔させていただきました。
 
 （↓）
 
