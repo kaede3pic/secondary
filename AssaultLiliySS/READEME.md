@@ -19,3 +19,4 @@ https://github.com/kaede3pic/secondary/raw/master/AssualtLilySS/Queen_vs_Witch.p
 
 「臣下」という立場から会話するのが気に入ったのか、ラスト直前までそのノリノリでお話しして、満足げに「負けたー」と帰ってこられました。
 
+「臣下」ごっこ、意外と気に入られたようです。
