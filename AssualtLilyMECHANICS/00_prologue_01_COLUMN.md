@@ -109,10 +109,12 @@ ARMSの１章で、ミリアムがCHARMを分解してて部屋をふっ飛ば�
 
 作中で御代ちゃん、「手数が欲しい」とCHARM２機を交互に起動させる『円環の御手』もどきをしていますが、原理は作中にある通り。
 
-説明中に出てくるトランジスタ回路の例えを図で書くとこんな感じです。
+説明中に出てくるトランジスタ回路の例えをイメージ図で書くとこんな感じです。
+（実際はもっと複雑な電気回路になりますが、簡略化して説明に出てくるところだけ抜粋しています）
+（グラフもまあ、こういうイメージと）
 
 <image width="400px" src="https://raw.githubusercontent.com/kaede3pic/secondary/master/AssualtLilyMECHANICS/image_jpg/00_01/kairo_00_01_02.jpg">
   
-<image width="400px" src="https://raw.githubusercontent.com/kaede3pic/secondary/master/AssualtLilyMECHANICS/image_jpg/00_01/douji_kidou_00_01_03.jpg">
+<image width="600px" src="https://raw.githubusercontent.com/kaede3pic/secondary/master/AssualtLilyMECHANICS/image_jpg/00_01/douji_kidou_00_01_03.jpg">
   
 上の方の図に出てくる『マギ時空』とか「物理世界でエネルギーに変わる」といった話は『千代御代（先生）』の持論であり、『空論』で、そのあたりの実例はプロローグ02で。
