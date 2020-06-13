@@ -122,6 +122,16 @@
 |好きな食べ物|カレーとハンバーグです。|
 |趣味|いまは、おねえちゃんといっしょにいるのが好きです。|
 
+### プロローグ01
+
+<img src="https://github.com/kaede3pic/secondary/blob/master/AssualtLilyMECHANICS/image_jpg/00_01/sasie_00_01_04.jpg" width="300px">
+<img src="https://github.com/kaede3pic/secondary/blob/master/AssualtLilyMECHANICS/image_jpg/00_01/sasie_00_01_05.jpg" width="300px">
+
+### プロローグ02
+
+<img src="https://github.com/kaede3pic/secondary/blob/master/AssualtLilyMECHANICS/image_jpg/00_02/sasie_00_02_03.jpg" width="300px">
+<img src="https://github.com/kaede3pic/secondary/blob/master/AssualtLilyMECHANICS/image_jpg/00_02/sasie_00_02_05.jpg" width="300px">
+
 ### 設定外コメント
 この子を書くときはいつも、脳内CV明坂聡美さんです。
 
