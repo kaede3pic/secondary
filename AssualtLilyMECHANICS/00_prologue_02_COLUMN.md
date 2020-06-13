@@ -31,7 +31,7 @@
 式３）
 <img src="https://github.com/kaede3pic/secondary/blob/master/AssualtLilyMECHANICS/image_jpg/00_02/siki_4.jpg" height="50px">
 
-というという、微分も積分も出てこない（そこそこ簡単な）式になります。
+という、微分も積分も出てこない（そこそこ簡単な）式になります。
 
 制御工学では、時間tでなく、このsの世界でいろいろ難しいことを考えます。
 
