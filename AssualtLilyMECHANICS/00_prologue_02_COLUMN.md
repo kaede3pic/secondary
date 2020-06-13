@@ -24,7 +24,9 @@
 <img src="https://github.com/kaede3pic/secondary/blob/master/AssualtLilyMECHANICS/image_jpg/00_02/siki_2.jpg" height="50px">
 <img src="https://github.com/kaede3pic/secondary/blob/master/AssualtLilyMECHANICS/image_jpg/00_02/siki_3.jpg" height="50px">
 
-という時間変数tから、変数sへの関数変換を行うことができます。（薄い字のとこは気にしなくていいですよ～）
+という時間変数tから、変数sへの関数変換を行います（薄い字のとこは気にしなくていいですよ～）
+
+これが「ラプラス変換」です。
 
 上の式１）は、ラプラス演算子sに関する
 
