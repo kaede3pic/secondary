@@ -147,9 +147,9 @@ i(t)は時間tに回路に流れる電流です。
 ただ、まあ......この欠点を欠点と見なして攻撃できる時間というのはほんの一瞬。
 しかも、縮地がどこで終わるのかをあらかじめ知っておかないと、まったく欠点になり得ないのですが。
 
-この子はそれができる子です。
+この子はそれができちゃう子です。
 
-<img src="https://github.com/kaede3pic/secondary/blob/master/AssualtLilyMECHANICS/image_jpg/00_02/sasie_00_02_05.jpg" width="200px">
+<img src="https://github.com/kaede3pic/secondary/blob/master/AssualtLilyMECHANICS/image_jpg/00_02/sasie_00_02_04.jpg" width="300px">
 
 ## GEHENA内における千代御代の立ち位置（『リジェネレーター』研究を例に）
 
