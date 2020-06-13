@@ -14,6 +14,8 @@ MECHANICSのオリキャラが出たりもしますが、公式キャラのSSも
 
 ・ <a href="https://github.com/kaede3pic/secondary/tree/master/AssaultLiliySS#%E9%80%9F%E6%B0%B4%E6%A1%82%E3%81%95%E3%82%93ss">速水桂さんSS</a>
 
+<hr>
+
 ## Queen vs Witch
 
 PDF直ダウンロードリンク（↓）です。
@@ -85,6 +87,8 @@ https://twitter.com/kaede3fig/status/1271337390351634432
 私も結構久しぶりっていうのもあったんだけどね......
 
 （以下略）
+
+<hr>
 
 ## 速水桂さんSS
 
