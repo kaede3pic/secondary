@@ -4,7 +4,7 @@
 
 ### ラプラス変換
 
-百由様がストーリー中で語っている『千代御代』の『マギ時空論』について語ってますが
+百由様がストーリー中で『千代御代』の『マギ時空論』について語ってますが
 （一応<a href="https://github.com/kaede3pic/secondary/blob/master/AssualtLilyMECHANICS/CharacterProfile.md#%E5%8D%83%E4%BB%A3-%E5%BE%A1%E4%BB%A3%E3%81%9B%E3%82%93%E3%81%A0%E3%81%84-%E3%81%BF%E3%82%88">キャラ紹介</a>中でも軽く触れています）、
 そこで出てくる「ラプラス変換」について解説をまず。　＊１）
 
