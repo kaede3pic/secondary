@@ -6,7 +6,7 @@
 
 百由様がストーリー中で『千代御代』の『マギ時空論』について語ってますが
 （一応<a href="https://github.com/kaede3pic/secondary/blob/master/AssualtLilyMECHANICS/CharacterProfile.md#%E5%8D%83%E4%BB%A3-%E5%BE%A1%E4%BB%A3%E3%81%9B%E3%82%93%E3%81%A0%E3%81%84-%E3%81%BF%E3%82%88">キャラ紹介</a>中でも軽く触れています）、
-そこで出てくる「ラプラス変換」について解説をまず。　＊１）
+そこで出てくる「ラプラス変換」について解説をまず。　（＊１）
 
 ラプラス変換は、「制御工学」という分野で一番最初に出てくる式変換です。
 
@@ -18,7 +18,7 @@
 
 微分と積分が入り混じって、文系の方に見せたら「目をそらしたくなる」らしいです。（実際に訊きました）
 
-これをラプラス演算子s<span style="color:#dcdcdc;">(=σ+jω)</span>というもの（薄い字のとこは気にしなくていいですよ～）を使って、
+これをラプラス演算子s<span style="color:red;">(=σ+jω)</span>というもの（薄い字のとこは気にしなくていいですよ～）を使って、
 
 式２）
 <img src="https://github.com/kaede3pic/secondary/blob/master/AssualtLilyMECHANICS/image_jpg/00_02/siki_2.jpg" height="50px">
