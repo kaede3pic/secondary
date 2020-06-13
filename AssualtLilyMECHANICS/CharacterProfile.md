@@ -117,17 +117,17 @@
 |年齢|たぶん14です。|
 |誕生日|おねえちゃんといっしょがいいです。（12/21希望）|
 |出身|甲州（山梨）らしいです。|
-|使用CHARM|？？？|
+|使用CHARM|『先生』がCHARM集めるのが好きだったので、大抵のものは使ったことあります。|
 |レアスキル|鷹の目|
 |好きな食べ物|カレーとハンバーグです。|
 |趣味|いまは、おねえちゃんといっしょにいるのが好きです。|
 
-### プロローグ01
+### プロローグ01（アステリオン）
 
 <img src="https://github.com/kaede3pic/secondary/blob/master/AssualtLilyMECHANICS/image_jpg/00_01/sasie_00_01_04.jpg" width="300px">
 <img src="https://github.com/kaede3pic/secondary/blob/master/AssualtLilyMECHANICS/image_jpg/00_01/sasie_00_01_05.jpg" width="300px">
 
-### プロローグ02
+### プロローグ02（第一世代型 CHARM BLADE TYPE）
 
 <img src="https://github.com/kaede3pic/secondary/blob/master/AssualtLilyMECHANICS/image_jpg/00_02/sasie_00_02_03.jpg" width="300px">
 <img src="https://github.com/kaede3pic/secondary/blob/master/AssualtLilyMECHANICS/image_jpg/00_02/sasie_00_02_05.jpg" width="300px">
