@@ -71,7 +71,7 @@ i(t)は時間tに回路に流れる電流です。
 
 という非常に単純な式になります。
 
-そして、これを逆ラプラス変換（sの世界から時間tの世界へ帰ってくる操作）を行うと、
+そして、これに逆ラプラス変換（sの世界から時間tの世界へ帰ってくる操作）を行うと、
 
 <img src="https://github.com/kaede3pic/secondary/blob/master/AssualtLilyMECHANICS/image_jpg/00_02/siki_9.jpg" height="50px">
 
