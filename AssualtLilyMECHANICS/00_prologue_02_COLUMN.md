@@ -18,7 +18,7 @@
 
 微分と積分が入り混じって、文系の方に見せたら「目をそらしたくなる」らしいです。（実際に訊きました）
 
-これをラプラス演算子s<span style="color:gray;">(=σ+jω)</span>というもの（薄い字のとこは気にしなくていいですよ～）を使って、
+これをラプラス演算子s<span style="color:#dcdcdc;">(=σ+jω)</span>というもの（薄い字のとこは気にしなくていいですよ～）を使って、
 
 式２）
 <img src="https://github.com/kaede3pic/secondary/blob/master/AssualtLilyMECHANICS/image_jpg/00_02/siki_2.jpg" height="50px">
