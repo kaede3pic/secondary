@@ -133,6 +133,10 @@ https://github.com/kaede3pic/secondary/blob/master/AssaultLiliySS/yui_sama_bd_20
 
 脳内CV：東山奈央さん　で固定して、勝手にしゃべってもらいました。
 
+https://twitter.com/assault_lily/status/1280885274348670977
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">というわけで今日の解説はここまでです<br>本日の分はいつものここに纏めました。<br>明日は7/9がお誕生日の松永遊糸様についてお話しします。最近遊糸様のたかり癖がひどく風紀委員長の苗陽様が懲罰を考えているといってました。それも止む無しですね（；＾ω＾）おやすみなさいませ～#アサルトリリィ <a href="https://t.co/ZemELsP83h">https://t.co/ZemELsP83h</a> <a href="https://t.co/kvnbvGSvTm">pic.twitter.com/kvnbvGSvTm</a></p>&mdash; 二川二水@アサルトリリィacus/Azone公式 (@assault_lily) <a href="https://twitter.com/assault_lily/status/1280885274348670977?ref_src=twsrc%5Etfw">July 8, 2020</a></blockquote>
+
 https://twitter.com/kaede3fig/status/1280891110009651200
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">冒頭で出てくるラムネ菓子は、後輩からたかってきたものです。という設定になりました。<br>しかし、後輩はそれを読んでいて実はもっといいお菓子を隠し持っていました。<br>ちなみにこの行動を遊糸センパイ、叱られるようなことだとは一寸も思ってません。<a href="https://twitter.com/hashtag/%E3%82%A2%E3%82%B5%E3%83%AB%E3%83%88%E3%83%AA%E3%83%AA%E3%82%A3?src=hash&amp;ref_src=twsrc%5Etfw">#アサルトリリィ</a><a href="https://t.co/PmeRfgURlf">https://t.co/PmeRfgURlf</a> <a href="https://t.co/9RfL2MCxAU">https://t.co/9RfL2MCxAU</a></p>&mdash; 蜜瀬かえで (@kaede3fig) <a href="https://twitter.com/kaede3fig/status/1280891110009651200?ref_src=twsrc%5Etfw">July 8, 2020</a></blockquote>
