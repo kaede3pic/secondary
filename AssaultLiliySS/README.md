@@ -141,12 +141,10 @@ https://twitter.com/kaede3fig/status/1280891110009651200
 
 苗陽様に関しては、以下の会話以上のキャラクター性の情報がなかったので、ほとんどオリジナルです。
 
-基本、このお顔↓で表情をかえない無表情だけど、何かあれば行動が突飛なコミカル（？）キャラになりました。
-
 https://twitter.com/assault_lily/status/1272544735358365696
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">遊糸「そんで、この地点から兵を展開すれば...」<br>苗陽「へ～」<br>遊糸「は？」<br>苗陽「兵という言葉と「へ～」という感嘆詞をかけたのよ。面白いでしょ？」<br>遊糸「ドン滑ってるわよ、あんた、ぐぐえええ首絞めるなあ」<br> <a href="https://twitter.com/hashtag/%E3%82%A2%E3%82%B5%E3%83%AB%E3%83%88%E3%83%AA%E3%83%AA%E3%82%A3?src=hash&amp;ref_src=twsrc%5Etfw">#アサルトリリィ</a> <a href="https://t.co/WHJNUvaYY2">pic.twitter.com/WHJNUvaYY2</a></p>&mdash; 二川二水@アサルトリリィacus/Azone公式 (@assault_lily) <a href="https://twitter.com/assault_lily/status/1272544735358365696?ref_src=twsrc%5Etfw">June 15, 2020</a></blockquote>
 
-
+基本、このお顔（↑）で表情をかえない無表情だけど、何かあれば行動が突飛なコミカル（？）キャラになりました。
 
 <hr>
