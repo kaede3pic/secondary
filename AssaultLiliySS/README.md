@@ -127,7 +127,7 @@ https://github.com/kaede3pic/secondary/raw/master/AssaultLiliySS/yui_sama_bd_202
 
 https://github.com/kaede3pic/secondary/blob/master/AssaultLiliySS/yui_sama_bd_2020.pdf
 
-タイトル通りです。
+内容はタイトルの通りです。
 
 苗陽様に関しては、この会話以上のキャラクター性の情報がなかったので、ほとんどオリジナルです。
 
@@ -140,5 +140,9 @@ https://twitter.com/assault_lily/status/1272544735358365696?s=20
 https://twitter.com/kaede3fig/status/1280891110009651200
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">冒頭で出てくるラムネ菓子は、後輩からたかってきたものです。という設定になりました。<br>しかし、後輩はそれを読んでいて実はもっといいお菓子を隠し持っていました。<br>ちなみにこの行動を遊糸センパイ、叱られるようなことだとは一寸も思ってません。<a href="https://twitter.com/hashtag/%E3%82%A2%E3%82%B5%E3%83%AB%E3%83%88%E3%83%AA%E3%83%AA%E3%82%A3?src=hash&amp;ref_src=twsrc%5Etfw">#アサルトリリィ</a><a href="https://t.co/PmeRfgURlf">https://t.co/PmeRfgURlf</a> <a href="https://t.co/9RfL2MCxAU">https://t.co/9RfL2MCxAU</a></p>&mdash; 蜜瀬かえで (@kaede3fig) <a href="https://twitter.com/kaede3fig/status/1280891110009651200?ref_src=twsrc%5Etfw">July 8, 2020</a></blockquote>
+
+遊糸センパイ、いろんなとこで遊ばれているせいか、結構キャラがブレてる印象なので、
+
+脳内CV：東山奈央さん　で固定して勝手にしゃべってもらいました。
 
 <hr>
