@@ -129,20 +129,24 @@ https://github.com/kaede3pic/secondary/blob/master/AssaultLiliySS/yui_sama_bd_20
 
 内容はタイトルの通りです。
 
-苗陽様に関しては、この会話以上のキャラクター性の情報がなかったので、ほとんどオリジナルです。
+遊糸センパイ、いろんなとこで遊ばれているせいか、結構キャラがブレてる印象なので、
 
-基本、このお顔↓で表情をかえない無表情だけど、何かあれば行動が突飛なコミカルキャラになりました。
-
-https://twitter.com/assault_lily/status/1272544735358365696
-
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">遊糸「そんで、この地点から兵を展開すれば...」<br>苗陽「へ～」<br>遊糸「は？」<br>苗陽「兵という言葉と「へ～」という感嘆詞をかけたのよ。面白いでしょ？」<br>遊糸「ドン滑ってるわよ、あんた、ぐぐえええ首絞めるなあ」<br> <a href="https://twitter.com/hashtag/%E3%82%A2%E3%82%B5%E3%83%AB%E3%83%88%E3%83%AA%E3%83%AA%E3%82%A3?src=hash&amp;ref_src=twsrc%5Etfw">#アサルトリリィ</a> <a href="https://t.co/WHJNUvaYY2">pic.twitter.com/WHJNUvaYY2</a></p>&mdash; 二川二水@アサルトリリィacus/Azone公式 (@assault_lily) <a href="https://twitter.com/assault_lily/status/1272544735358365696?ref_src=twsrc%5Etfw">June 15, 2020</a></blockquote>
+脳内CV：東山奈央さん　で固定して、勝手にしゃべってもらいました。
 
 https://twitter.com/kaede3fig/status/1280891110009651200
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">冒頭で出てくるラムネ菓子は、後輩からたかってきたものです。という設定になりました。<br>しかし、後輩はそれを読んでいて実はもっといいお菓子を隠し持っていました。<br>ちなみにこの行動を遊糸センパイ、叱られるようなことだとは一寸も思ってません。<a href="https://twitter.com/hashtag/%E3%82%A2%E3%82%B5%E3%83%AB%E3%83%88%E3%83%AA%E3%83%AA%E3%82%A3?src=hash&amp;ref_src=twsrc%5Etfw">#アサルトリリィ</a><a href="https://t.co/PmeRfgURlf">https://t.co/PmeRfgURlf</a> <a href="https://t.co/9RfL2MCxAU">https://t.co/9RfL2MCxAU</a></p>&mdash; 蜜瀬かえで (@kaede3fig) <a href="https://twitter.com/kaede3fig/status/1280891110009651200?ref_src=twsrc%5Etfw">July 8, 2020</a></blockquote>
 
-遊糸センパイ、いろんなとこで遊ばれているせいか、結構キャラがブレてる印象なので、
+遊糸センパイ、自分の素行は棚上げして、しゃべってますねー。
 
-脳内CV：東山奈央さん　で固定して、勝手にしゃべってもらいました。
+苗陽様に関しては、この会話以上のキャラクター性の情報がなかったので、ほとんどオリジナルです。
+
+基本、このお顔↓で表情をかえない無表情だけど、何かあれば行動が突飛なコミカル（？）キャラになりました。
+
+https://twitter.com/assault_lily/status/1272544735358365696
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">遊糸「そんで、この地点から兵を展開すれば...」<br>苗陽「へ～」<br>遊糸「は？」<br>苗陽「兵という言葉と「へ～」という感嘆詞をかけたのよ。面白いでしょ？」<br>遊糸「ドン滑ってるわよ、あんた、ぐぐえええ首絞めるなあ」<br> <a href="https://twitter.com/hashtag/%E3%82%A2%E3%82%B5%E3%83%AB%E3%83%88%E3%83%AA%E3%83%AA%E3%82%A3?src=hash&amp;ref_src=twsrc%5Etfw">#アサルトリリィ</a> <a href="https://t.co/WHJNUvaYY2">pic.twitter.com/WHJNUvaYY2</a></p>&mdash; 二川二水@アサルトリリィacus/Azone公式 (@assault_lily) <a href="https://twitter.com/assault_lily/status/1272544735358365696?ref_src=twsrc%5Etfw">June 15, 2020</a></blockquote>
+
+
 
 <hr>
