@@ -118,9 +118,17 @@ https://twitter.com/kaede3fig/status/1268981013536890880
 
 ## 松永遊糸様お誕生日記念SS 2020（苗陽様が遊糸先輩と『イチャイチャしたかった』お話)
 
+
+
+
+
 PDF直ダウンロードリンク（↓）です。
 
 https://github.com/kaede3pic/secondary/raw/master/AssaultLiliySS/yui_sama_bd_2020.pdf
+
+
+
+
 
 
 短いのでブラウザで開く場合（↓）
