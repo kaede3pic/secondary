@@ -14,6 +14,8 @@ MECHANICSのオリキャラが出たりもしますが、公式キャラのSSも
 
 ・ <a href="https://github.com/kaede3pic/secondary/tree/master/AssaultLiliySS#%E9%80%9F%E6%B0%B4%E6%A1%82%E3%81%95%E3%82%93ss">速水桂さんSS</a>
 
+・　<a href="">松永遊糸様お誕生日記念SS 2020（苗陽様が遊糸先輩と『イチャイチャしたかった』お話)</a>
+
 <hr>
 
 ## Queen vs Witch
@@ -111,3 +113,18 @@ https://twitter.com/kaede3fig/status/1268981013536890880
 <img src="https://github.com/kaede3pic/secondary/blob/master/AssaultLiliySS/image_jpg/k05.jpg" width="600px">
 
 <img src="https://github.com/kaede3pic/secondary/blob/master/AssaultLiliySS/image_jpg/k06.jpg" width="600px">
+
+<hr>
+
+## 松永遊糸様お誕生日記念SS 2020（苗陽様が遊糸先輩と『イチャイチャしたかった』お話)
+
+PDF直ダウンロードリンク（↓）です。
+
+https://github.com/kaede3pic/secondary/raw/master/AssaultLiliySS/yui_sama_bd_2020.pdf
+
+
+短いのでブラウザで開く場合（↓）
+
+https://github.com/kaede3pic/secondary/blob/master/AssaultLiliySS/yui_sama_bd_2020.pdf
+
+<hr>
