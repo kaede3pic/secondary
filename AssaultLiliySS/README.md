@@ -16,6 +16,8 @@ MECHANICSのオリキャラが出たりもしますが、公式キャラのSSも
 
 ・ <a href="https://github.com/kaede3pic/secondary/tree/master/AssaultLiliySS#%E6%9D%BE%E6%B0%B8%E9%81%8A%E7%B3%B8%E6%A7%98%E3%81%8A%E8%AA%95%E7%94%9F%E6%97%A5%E8%A8%98%E5%BF%B5ss-2020%E8%8B%97%E9%99%BD%E6%A7%98%E3%81%8C%E9%81%8A%E7%B3%B8%E5%85%88%E8%BC%A9%E3%81%A8%E3%82%A4%E3%83%81%E3%83%A3%E3%82%A4%E3%83%81%E3%83%A3%E3%81%97%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E3%81%8A%E8%A9%B1">松永遊糸様お誕生日記念SS 2020（苗陽様が遊糸先輩と『イチャイチャしたかった』お話)</a>
 
+・ <a href="">アサガオ</a>
+
 <hr>
 
 ## Queen vs Witch
@@ -150,5 +152,31 @@ https://twitter.com/assault_lily/status/1272544735358365696
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">遊糸「そんで、この地点から兵を展開すれば...」<br>苗陽「へ～」<br>遊糸「は？」<br>苗陽「兵という言葉と「へ～」という感嘆詞をかけたのよ。面白いでしょ？」<br>遊糸「ドン滑ってるわよ、あんた、ぐぐえええ首絞めるなあ」<br> <a href="https://twitter.com/hashtag/%E3%82%A2%E3%82%B5%E3%83%AB%E3%83%88%E3%83%AA%E3%83%AA%E3%82%A3?src=hash&amp;ref_src=twsrc%5Etfw">#アサルトリリィ</a> <a href="https://t.co/WHJNUvaYY2">pic.twitter.com/WHJNUvaYY2</a></p>&mdash; 二川二水@アサルトリリィacus/Azone公式 (@assault_lily) <a href="https://twitter.com/assault_lily/status/1272544735358365696?ref_src=twsrc%5Etfw">June 15, 2020</a></blockquote>
 
 基本、このお顔（↑）で表情をかえない無表情だけど、何かあれば行動が突飛なコミカル（？）キャラになりました。
+
+<hr>
+
+## アサガオ
+
+先に弁明させてください。こんなお話書きたくなかったんです。本当です。信じてください。
+
+でも、心にそっと初様が囁きかけてきたんです。
+
+https://hobby.dengeki.com/news/1030402/
+
+「これを見て、信じるか、信じないかは、あなた次第」
+
+信じたくなかったんです！
+
+信じたくなかったけど、いつの間にか書けてたんです！
+
+槿様……。
+
+私たちの『みんな大好き槿様』は、どこへ行ったのでしょう……。
+
+そもそもそんな存在が、幻想だったのかもしれません。
+
+（涙）
+
+
 
 <hr>
