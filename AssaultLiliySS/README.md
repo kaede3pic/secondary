@@ -163,7 +163,9 @@ https://twitter.com/assault_lily/status/1272544735358365696
 
 https://hobby.dengeki.com/news/1030402/
 
-「これを見て、信じるか、信じないかは、あなた次第」
+https://hobby.dengeki.com/ss/hobby/uploads/2020/06/AL_06-01_08_SsETga64ptk1sjfysjtDJu-xDfZfLdhx.jpg
+
+「これ（↑）を見て、信じるか、信じないかは、あなた次第」
 
 信じたくなかったんです！
 
