@@ -16,7 +16,7 @@ MECHANICSのオリキャラが出たりもしますが、公式キャラのSSも
 
 ・ <a href="https://github.com/kaede3pic/secondary/tree/master/AssaultLiliySS#%E6%9D%BE%E6%B0%B8%E9%81%8A%E7%B3%B8%E6%A7%98%E3%81%8A%E8%AA%95%E7%94%9F%E6%97%A5%E8%A8%98%E5%BF%B5ss-2020%E8%8B%97%E9%99%BD%E6%A7%98%E3%81%8C%E9%81%8A%E7%B3%B8%E5%85%88%E8%BC%A9%E3%81%A8%E3%82%A4%E3%83%81%E3%83%A3%E3%82%A4%E3%83%81%E3%83%A3%E3%81%97%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E3%81%8A%E8%A9%B1">松永遊糸様お誕生日記念SS 2020（苗陽様が遊糸先輩と『イチャイチャしたかった』お話)</a>
 
-・ <a href="https://github.com/kaede3pic/secondary/blob/master/AssaultLiliySS/README.md#%E3%82%A2%E3%82%B5%E3%82%AC%E3%82%AA">アサガオ</a>
+・ <a href="https://github.com/kaede3pic/secondary/blob/master/AssaultLiliySS/README.md#%E3%82%A2%E3%82%B5%E3%82%AC%E3%82%AA20200725-%E6%94%B9%E7%A8%BF">アサガオ</a>
 
 <hr>
 
