@@ -40,5 +40,5 @@ https://github.com/kaede3pic/secondary/raw/master/AssualtLilyMECHANICS/00_prolog
 
 https://github.com/kaede3pic/secondary/blob/master/AssualtLilyMECHANICS/00_prologue_02_COLUMN.md
 
-#### Prologue 03 「野生（仮）」
+#### Prologue 03 「野生 -circlet break-」
 絶賛執筆中
