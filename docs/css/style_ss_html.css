@@ -1,0 +1,56 @@
+@charset "utf-8";
+
+body {
+    
+    font-family: "Helvetica Neue",
+    Arial,
+    "Hiragino Kaku Gothic ProN",
+    "Hiragino Sans",
+    "BIZ UDPGothic",
+    Meiryo,
+    sans-serif;
+    line-height: 2.2em;
+
+}
+
+#title_rogo {
+    margin-left: 150px;
+}
+
+main {
+    margin-left: 60px;
+    width: 650px;
+}
+
+h2 {
+    border: 1.5px solid;
+    border-color: rgba(190, 188, 188, 0.849);
+    border-left: transparent;
+    border-right: transparent;
+    font-size: 18pt;
+    font-weight: normal;
+    color: rgb(77, 75, 75);
+    margin-left: 1.5em;
+    margin-right: 1.5em;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+}
+
+p {
+    font-size: 15pt;
+    color: rgb(100, 100, 100);
+    margin-top: -30px;
+    padding-left: 2em;
+    padding-right: 2em;
+    padding-bottom: 1em;
+}
+
+.small_rogo {
+    padding-left: 580px;
+    margin-bottom: -50px;
+}
+
+
+
+
+
